@@ -1,2 +1,2 @@
-Home Page of John Ghiz, Actor, Writer Voice-Over Artist
+Home Page of John Ghiz, Actor, Writer Voice-Over Artist.
 

@@ -1,4 +1,6 @@
 _site
+.idea
+.jekyll-cache
 
 # Windows image file caches
 Thumbs.db

@@ -1,0 +1,7 @@
+# Testimonals to be included on carousel
+- name: "Thomas Chambers"
+  quote: "John Ghiz is a great guy"
+- name: "Senior Critic"
+  quote: "I laughed, I cried, what a guy"
+- name: "National Post"
+  quote: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>

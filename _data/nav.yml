@@ -1,0 +1,15 @@
+## main links
+- name: "Links"
+  link: "#social_links"
+- name: "About Me"
+  link: "#about_me"
+- name: "Services"
+  link: "#services"
+- name: "Projects"
+  link: "#projects"
+#- name: "Testimonials"
+#  link: "/#testimonials"
+#- name: "Blog"
+#  link: "/blog/"
+
+

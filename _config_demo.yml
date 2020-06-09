@@ -1,0 +1,59 @@
+url: https://johnghiz.herokuapp.com
+baseurl:
+
+# Site settings
+title: John Ghiz
+email: jghiz@email.com
+phone: 647-210-8370
+address: 3481 Melrose Place
+description: "Writer, Actor, Voice-Over Artist"
+imdb: https://imdb.me/johnghiz
+
+# Team names, titles and social links
+people:
+  - name: John Ghiz
+    pic: JG
+    position: Actor, Writer, Voice-Over Artist
+    social:
+      - title: imdb
+        title_icon: fab fa-imdb
+        url: https://imdb.me/johnghiz
+      - title: instagram
+        title_icon: fab fa-instagram-square
+        url: https://www.instagram.com/john_ghiz/?hl=en
+      #    - title: twitter
+      #      title_icon: fab fa-twitter-square
+      #      url: #
+      #    - title: facebook
+      #      title_icon: fab fa-facebook-square
+      #      url: #
+      - title: linkedin
+        title_icon: fab fa-linkedin
+        url: https://www.linkedin.com/in/john-ghiz-041b0399/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: imdb
+#    title_icon: fab fa-imdb
+#    url: https://imdb.me/johnghiz
+#  #  - title: twitter
+#  #    title_icon: fab fa-twitter-square
+#  #    url:
+#  #  - title: facebook
+#  #    title_icon: fab fa-facebook-square
+#  #    url:
+#  - title: linkedin
+#    title_icon: fab fa-linkedin
+#    url: https://www.linkedin.com/in/john-ghiz-041b0399/
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-sitemap

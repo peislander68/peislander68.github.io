@@ -1,0 +1,24 @@
+  <footer>
+        <div class="container" >
+            <div class="row" id="contact">
+                <div class="col-md-4">
+                    <ul class="list-inline">
+                        <li><i class="fas fa-home fa-3x"></i><br><p style="vertical-align: middle;">{{ site.address }}</p></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline">
+                        <li><i class="fas fa-phone fa-3x"></i><p style="vertical-align: middle;">{{ site.phone }}</p> </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline">
+                        <li><i class="fas fa-envelope fa-3x"></i><p style="vertical-align: middle;"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p></li>
+                    </ul>
+                </div>
+            </div>
+            <div class ="row">
+                <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+            </div>
+        </div>
+    </footer>

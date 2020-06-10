@@ -21,9 +21,9 @@ people:
     - title: instagram
       title_icon: fab fa-instagram-square
       url: https://www.instagram.com/john_ghiz/?hl=en
-#    - title: twitter
-#      title_icon: fab fa-twitter-square
-#      url: #
+    - title: twitter
+      title_icon: fab fa-twitter-square
+      url: https://twitter.com/JohnGhiz
 #    - title: facebook
 #      title_icon: fab fa-facebook-square
 #      url: #
@@ -32,20 +32,6 @@ people:
       url: https://www.linkedin.com/in/john-ghiz-041b0399/
 
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-#social:
-#  - title: imdb
-#    title_icon: fab fa-imdb
-#    url: https://imdb.me/johnghiz
-##  - title: twitter
-##    title_icon: fab fa-twitter-square
-##    url:
-##  - title: facebook
-##    title_icon: fab fa-facebook-square
-##    url:
-#  - title: linkedin
-#    title_icon: fab fa-linkedin
-#    url: https://www.linkedin.com/in/john-ghiz-041b0399/
 
 
 # Build settings

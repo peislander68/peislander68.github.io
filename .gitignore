@@ -2,6 +2,7 @@
 .jekyll-metadata
 .jekyll-cache
 .idea/
+_site/
 
 # Windows image file caches
 Thumbs.db

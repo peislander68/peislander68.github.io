@@ -7,8 +7,14 @@ email: john.ghiz@gmail.com
 phone: 647-210-8370
 address: Montreal, Canada
 description: "Writer, Actor, Voice-Over Artist"
+og_image: /img/team/JG.jpg
+# links
 imdb: https://imdb.me/johnghiz
 resume: https://resumes.actorsaccess.com/johnghiz
+
+# seo
+author: John Ghiz
+twitter: "@JohnGhiz"
 
 # Team names, titles and social links
 people:
@@ -25,14 +31,9 @@ people:
     - title: twitter
       title_icon: fab fa-twitter-square
       url: https://twitter.com/JohnGhiz
-#    - title: facebook
-#      title_icon: fab fa-facebook-square
-#      url: #
     - title: linkedin
       title_icon: fab fa-linkedin
       url: https://www.linkedin.com/in/john-ghiz-041b0399/
-
-
 
 
 # Build settings

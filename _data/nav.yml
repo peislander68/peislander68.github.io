@@ -9,6 +9,8 @@
   link: "#voice_overs"
 - name: "Projects"
   link: "#projects"
+- name: "Gallery"
+  link: "#gallery"
 #- name: "Testimonials"
 #  link: "/#testimonials"
 #- name: "Blog"

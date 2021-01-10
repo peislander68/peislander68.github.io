@@ -48,7 +48,17 @@ plugins:
 
 theme: jekyll-theme-cayman
 
-#sass
-sass:
-  sass_dir:           _sass
-  style:              compressed
+# Gallery Images
+carousel:
+  - url: /img/JG Mic.jpg
+    alt: John in the studio
+  - url: /img/bike.jpg
+    alt: Bicycle
+  - url: /img/gunpoint.jpg
+    alt: John acting
+  - url: /img/Writing and Editing.jfif
+    alt: Typewriter
+  - url: /img/og_image_1.jpg
+    alt: John Ghiz
+  - url: /img/JG.jpg
+    alt: John Ghiz
